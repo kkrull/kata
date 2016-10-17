@@ -1,0 +1,10 @@
+.gitattributes  text
+.gitignore      text
+pom.xml         text
+
+*.feature       text
+*.java          text diff=java
+*.md            text
+*.properties    text
+
+bin/*           text
